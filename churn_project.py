@@ -77,7 +77,7 @@ print("Accuracy:", accuracy_score(y_test, y_pred))
 print("\nConfusion Matrix:\n", confusion_matrix(y_test, y_pred))
 print("\nClassification Report:\n", classification_report(y_test, y_pred))
 
-# Random Forest Model (Much better for churn)
+# Train Second ML Model (Random Forest Model)
 
 from sklearn.ensemble import RandomForestClassifier
 
@@ -146,6 +146,7 @@ X_test_copy["Predicted_Churn"] = y_pred_bal
 X_test_copy["Retention_Action"] = X_test_copy.apply(retention_recommendation, axis=1)
 
 print(X_test_copy[["Predicted_Churn","Retention_Action"]].head(10))
+
 
 
 
