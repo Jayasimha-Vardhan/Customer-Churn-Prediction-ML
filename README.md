@@ -21,12 +21,17 @@ Python, Pandas, NumPy, Scikit-learn, Matplotlib, Seaborn
 - Churn Recall: 79%
 - Accuracy: 73%
 
+## Workflow
+Data Loading → EDA → Feature Engineering → Model Training → Evaluation → Explainable AI → Retention Recommendations
+
+
 ## Business Impact
 The system helps companies proactively identify high-risk customers and apply personalized retention strategies.
 
 ## How to Run
 - pip install -r requirements.txt
 - python churn_project.py
+
 
 
 
