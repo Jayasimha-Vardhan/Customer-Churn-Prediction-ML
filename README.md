@@ -31,11 +31,17 @@ The system helps companies proactively identify high-risk customers and apply pe
 ## Project Visualizations
 <img width="320" height="240" alt="customer_churn_distrinbution" src="https://github.com/user-attachments/assets/07176df4-39ff-410e-8b75-e8e4d403ce2e" />
 
+<img width="320" height="240" alt="churn_by_contract_type" src="https://github.com/user-attachments/assets/2dd0d910-d2cc-42c5-be59-058bb84ca468" />
+
+
+
+
 
 
 ## How to Run
 - pip install -r requirements.txt
 - python churn_project.py
+
 
 
 
