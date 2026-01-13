@@ -33,6 +33,8 @@ The system helps companies proactively identify high-risk customers and apply pe
 
 <img width="320" height="240" alt="churn_by_contract_type" src="https://github.com/user-attachments/assets/2dd0d910-d2cc-42c5-be59-058bb84ca468" />
 
+<img width="320" height="240" alt="monthly_charges_vs_churn" src="https://github.com/user-attachments/assets/bb59d664-95c6-46f9-95f4-5f3479409dfc" />
+
 
 
 
@@ -41,6 +43,7 @@ The system helps companies proactively identify high-risk customers and apply pe
 ## How to Run
 - pip install -r requirements.txt
 - python churn_project.py
+
 
 
 
