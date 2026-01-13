@@ -29,13 +29,14 @@ Data Loading → EDA → Feature Engineering → Model Training → Evaluation �
 The system helps companies proactively identify high-risk customers and apply personalized retention strategies.
 
 ## Project Visualizations
-<img width="640" height="480" alt="customer_churn_distrinbution" src="https://github.com/user-attachments/assets/07176df4-39ff-410e-8b75-e8e4d403ce2e" />
+<img width="320" height="240" alt="customer_churn_distrinbution" src="https://github.com/user-attachments/assets/07176df4-39ff-410e-8b75-e8e4d403ce2e" />
 
 
 
 ## How to Run
 - pip install -r requirements.txt
 - python churn_project.py
+
 
 
 
